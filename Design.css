@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(156, 235, 207);
+}
+ h1{
+    color: rgb(219, 13, 13);
+ }
+ .one{
+height: 400px;
+width: 70%;
+
+background: linear-gradient(to right, red,green,blue);
+background-size: cover;
+ }
